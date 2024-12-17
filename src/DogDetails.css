@@ -1,0 +1,26 @@
+.DogDetails {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 70px;
+  background-color:rgb(194, 223, 245);
+}
+
+
+.DogDetails img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+
+}
+
+.DogDetails ul {
+  padding-left: 1rem; 
+}
+
+.DogDetails li {
+  margin-bottom: 0.25rem; 
+}
+
+
